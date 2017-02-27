@@ -2,7 +2,7 @@
   "name": "particlesjs",
   "version": "1.0.2",
   "description": "A lightweight and dependency-free javascript plugin for particle backgrounds.",
-  "main": "dist/particles.min.js",
+  "main": "src/particles.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marcbruederlin/particles.js"
