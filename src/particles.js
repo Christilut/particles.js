@@ -65,6 +65,10 @@ var Particles = (function(window, document) {
       // Run the plugins animation method
       this.animate();
     };
+    
+    this.setHeight = function(height) {
+      canvas.height = height
+    }
 
     /**
      * Calls the draw method 60 times per second.
